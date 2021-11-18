@@ -1,0 +1,15 @@
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\Interop.SCANNERLib.dll
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\AxInterop.SCANNERLib.dll
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\bin\Project1.exe
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\bin\Project1.pdb
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\bin\Project1.xml
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\bin\Interop.SCANNERLib.dll
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\bin\AxInterop.SCANNERLib.dll
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\Project1.Form1.resources
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\ResGen.write.1.tlog
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\Project1.exe
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\Project1.xml
+C:\Program Files (x86)\Scanner ActiveX ControlXXXX105\Examples\VB.Net2010\1D-2DBarcodeDemo\obj\Debug\Project1.pdb

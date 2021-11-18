@@ -1,0 +1,13 @@
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Interop.SCANNERLib.dll
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\AxInterop.SCANNERLib.dll
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Project1.vbproj.ResolveComReference.cache
+C:\installer\scanner\VB.Net2010\Barcode\bin\Project1.exe
+C:\installer\scanner\VB.Net2010\Barcode\bin\Project1.pdb
+C:\installer\scanner\VB.Net2010\Barcode\bin\Project1.xml
+C:\installer\scanner\VB.Net2010\Barcode\bin\Interop.SCANNERLib.dll
+C:\installer\scanner\VB.Net2010\Barcode\bin\AxInterop.SCANNERLib.dll
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Project1.Form1.resources
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Project1.vbproj.GenerateResource.Cache
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Project1.exe
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Project1.xml
+C:\installer\scanner\VB.Net2010\Barcode\obj\Debug\Project1.pdb

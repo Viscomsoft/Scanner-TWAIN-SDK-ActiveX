@@ -1,0 +1,3 @@
+C:\Program Files (x86)\Scanner ActiveX Control10000\Examples\VB.Net2010\General\obj\Debug\Interop.SCANNERLib.dll
+C:\Program Files (x86)\Scanner ActiveX Control10000\Examples\VB.Net2010\General\obj\Debug\AxInterop.SCANNERLib.dll
+C:\Program Files (x86)\Scanner ActiveX Control10000\Examples\VB.Net2010\General\obj\Debug\Project1.vbproj.ResolveComReference.cache
