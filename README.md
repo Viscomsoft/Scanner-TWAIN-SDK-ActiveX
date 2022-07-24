@@ -25,3 +25,14 @@ Install Viscomsoft Scanner TWAIN SDK ActiveX from http://www.viscomsoft.com/prod
 8. Compatible with any programming language that supports ActiveX (Access, Visual C , Visual Basic , Visual Foxpro, Delphi, .Net, etc.) 
 
 9. Royalty free distribution of the OCX file.
+
+# How to Tutorials
+
+Delphi - TWAIN Scan and OCR Document with Delphi http://www.viscomsoft.com/popular/scanner/65.html
+
+C# - How to Scan multiple documents into PDF http://www.viscomsoft.com/popular/scanner/119.html
+
+C# - How to Read Barcodes from scanned documents http://www.viscomsoft.com/popular/scanner/144.html
+
+C# - How to Add TWAIN Scanning features to WinForm application from NuGet Packages http://www.viscomsoft.com/popular/scanner/161.html
+ 
